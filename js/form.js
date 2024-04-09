@@ -21,7 +21,9 @@ try {
             "Sexo": formulario.sexo.value,
             "Telefono": formulario.telefono.value,
             "Empresa": formulario.empresa.value,
-            "Institucion": formulario.imss.value
+            "Institucion": formulario.imss.value,
+            "Nss": formulario.nss.value,
+            "Curp": formulario.curp.value
         })
     });
 
